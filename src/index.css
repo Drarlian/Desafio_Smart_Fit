@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'FonteBlack';
+  src: url('assets/fonts/gotham-black.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'FonteBold';
+  src: url('assets/fonts/gotham-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'FonteBook';
+  src: url('assets/fonts/gotham-book.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'FonteLight';
+  src: url('assets/fonts/gotham-light.woff2') format('woff2');
+}
+
+:root {
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
