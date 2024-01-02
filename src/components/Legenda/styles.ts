@@ -47,6 +47,7 @@ export const DivLegenda = styled.div`
             h3{
                 font-family: 'FonteBold';
                 padding-top: 17px;
+                margin-bottom: 0;
                 /* height: 5px; */
             }
 
