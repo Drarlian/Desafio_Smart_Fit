@@ -37,6 +37,7 @@ export const DivTitulo = styled.div`
         background-color: #333333;
         display: inline-block;
         border: solid;
+        border-color: #333333;
         width: 80px;
         height: 3px;
     }
