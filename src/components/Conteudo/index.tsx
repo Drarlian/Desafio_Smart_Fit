@@ -3,7 +3,7 @@ import { DivConteudo } from './styles';
 import Titulo from '../Titulo';
 import Formulario from '../Formulario';
 import Lista from '../Lista';
-import Legenda from '../Lengda';
+import Legenda from '../Legenda';
 
 // import { Container } from './styles';
 

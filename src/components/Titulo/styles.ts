@@ -24,14 +24,17 @@ export const DivTitulo = styled.div`
 
     h1{
         font-family: 'FonteBold', sans-serif;
+        color: #333333;
+        margin-bottom: 12px;
     }
 
     p{
         font-family: 'FonteBook', sans-serif;
+        color: #333333;
     }
 
     .traco-pequeno{
-        background-color: black;
+        background-color: #333333;
         display: inline-block;
         border: solid;
         width: 80px;
