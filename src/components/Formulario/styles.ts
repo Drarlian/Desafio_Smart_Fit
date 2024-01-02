@@ -13,7 +13,7 @@ export const DivFormulario = styled.div`
     padding-top: 20px;
 
     font-family: 'FonteLight';
-    color: grey;
+    color: #808080;
 
     box-sizing: border-box;
     overflow-wrap: break-word;

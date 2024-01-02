@@ -51,7 +51,7 @@ const Formulario: React.FC = () => {
               </div>
               <p>Exibir unidades fechadas</p>
             </div>
-            <p>Resultado(s) encontrado(s): <strong style={{'color': 'black'}}>0</strong></p>
+            <p>Resultado(s) encontrado(s): <strong style={{'fontFamily': 'FonteBold', 'color': 'rgba(0, 0, 0, 0.8)'}}>0</strong></p>
           </div>
           <div className='formulario-botoes'>
             <button className='botao-colorido' onClick={(e) => alterar(e)}>Encontrar Unidade</button>
