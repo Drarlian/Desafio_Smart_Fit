@@ -8,7 +8,7 @@ export const DivLegenda = styled.div`
 
     /* margin: 0; */
     /* padding: 0; */
-    padding-top: 18px;
+    margin-top: 20px;
 
     box-sizing: border-box;
     overflow-wrap: break-word;

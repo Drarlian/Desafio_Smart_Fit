@@ -7,7 +7,7 @@ export const DivLista = styled.div`
     justify-content: center;
     align-items: center;
 
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 40px;
 
     font-family: 'FonteBook', sans-serif;

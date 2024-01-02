@@ -10,7 +10,7 @@ export const DivFormulario = styled.div`
 
     /* margin: 0; */
     /* padding: 0; */
-    padding-top: 20px;
+    margin-top: 20px;
 
     font-family: 'FonteLight';
     color: #808080;
